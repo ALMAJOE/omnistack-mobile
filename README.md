@@ -1,2 +1,4 @@
 # omnistack-mobile
-Projeto em React Native da semana omnistack
+SENAI - Mobile
+
+Autor: J. A. Lima
